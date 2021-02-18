@@ -1,0 +1,33 @@
+.table-full-width {
+  width: 100%;
+  border: 1px;
+}
+
+#table-wrapper {
+  margin: 3%;
+  padding-bottom: 3%;
+}
+
+#results-wrapper {
+  margin: 3% 0% 3% 3%;
+}
+
+.mat-row {
+  height: 10px;
+}
+
+.mat-header-row {
+  height: 30px;
+}
+
+.mat-column-position {
+  width: 15%;
+}
+
+.mat-column-title,
+.mat-column-link {
+  width: 25%;
+  overflow: hidden;
+  text-overflow: clip;
+  white-space: nowrap; 
+}
